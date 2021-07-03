@@ -3,6 +3,7 @@
 RGBLIGHT_ENABLE = no
 RGB_MATRIX_ENABLE = WS2812
 TAP_DANCE_ENABLE = yes
+UNICODE_ENABLE = yes
 
 SRC +=  ./lib/glcdfont.c \
         ./lib/rgb_state_reader.c \
